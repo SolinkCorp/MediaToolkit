@@ -15,5 +15,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("MediaToolkit")]
 [assembly: AssemblyTitle("MediaToolkit")]
 [assembly: AssemblyVersion("1.0.4.4")]
+[assembly: AssemblyInformationalVersion("1.0.4.4-Solink-1")]
 [assembly: ComVisible(false)]
 [assembly: Guid("e03e0a90-f6c1-4d13-8649-d61783abeff3")]
